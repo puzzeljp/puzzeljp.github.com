@@ -1,2 +1,0 @@
-puzzeljp.github.com
-===================
